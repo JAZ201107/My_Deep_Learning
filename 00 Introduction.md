@@ -1,4 +1,4 @@
-## About this Gitbook:
+## About this Gitbook
 
 This gitbook is about my understanding of Deep Learning
 
